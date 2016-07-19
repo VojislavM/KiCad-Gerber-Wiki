@@ -6,7 +6,9 @@ On this link, you can find all information about [dirtypcbs info][DIRTY_PCB_ABOU
 There are several things need to be done before sending files to manufacture PCBs. Files are generated with KiCad EDA tool, and these are the steps to send your files to [dirtypcbs][DIRTY_PCB_LINK] and get your boards as you want.
 
 When board file is finished:
+
 1. Set the origin: Go to **Place** -> **Drill and Place offset** and then set the origin near the corner of the board.
+
 2. Generate Gerber files PDF: Go to **File** -> **Plot**. New Window will appear, like in picture 1. Click on **Plot** and it will generate Gerber files in PDF form so they could be checked. 
 
 ![Picture 1][pic1]
