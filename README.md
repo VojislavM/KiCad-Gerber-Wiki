@@ -18,6 +18,8 @@ When board file is finished:
 ![Picture 2][pic2]
 
 4. Generate Drill File: Next click on the **Generate Drill File** and the new window will appear, like in picture 3. Again everything should be like in picture 3. When everything is set click on **Drill File**, and Drill file will be generated. 
+  
+  **Note:** If there are plated and non plated holes in the design please check the "Merge PTH and NPTH holes into one file"
 
 ![Picture 3][pic3]
 
